@@ -1,0 +1,19 @@
+body {}
+
+.top-container {
+  background-color: #F15412;
+  width: 200px;
+  height: 200px;
+}
+
+.middle-container {
+  background-color: #34B3F1;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
